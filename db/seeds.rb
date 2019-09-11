@@ -1,0 +1,1 @@
+Task.create([{ title: 'Learn Elastic Beanstalk', priority: 3}, { title: 'Eat ice cream', priority: 8 }])

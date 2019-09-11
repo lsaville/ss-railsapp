@@ -1,0 +1,12 @@
+body {
+  background: #effeef;
+  font-family: sans-serif;
+}
+
+.fancy {
+  background: magenta;
+}
+
+.turing-logo {
+  height: 150px;
+}
